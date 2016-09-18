@@ -1,8 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" },
-    { "id": 2, "title": "json-server", "author": "typicode" }
-  ],
   "menu": [
     {
       "_id": "54f7d6e8930572ee3dcb6da0",
