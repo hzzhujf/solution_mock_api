@@ -1,0 +1,101 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "json-server", "author": "typicode" }
+  ],
+  "menu": [
+    {
+      "_id": "54f7d6e8930572ee3dcb6da0",
+      "type": 0,
+      "status": 0,
+      "onlineNumber": 2998,
+      "title": "完整的金融生态圈",
+      "type": "股票",
+      "author": "张斌",
+      "description": "核心观点：大盘在前期探底20日线企稳后，已进入最佳反弹时段，创业板指数上攻已遭遇较大程度抛压，关注沪指20日线支持，倘若失守届时还请做好止损准备。创业板指数上攻已遭遇较大程度抛压，关注沪指20日线支持，倘若失守届时还请做好止损准备。",
+      "supported": 2800,
+      "shared": 3680,
+      "vip": 0,
+      "shareURL": "http://solution.videojj.com/livingroom/54f7d6e8930572ee3dcb6da0"
+    },
+    {
+      "_id": "54f7d6e8930572ee3dcb6da1",
+      "type": 0,
+      "status": 1,
+      "onlineNumber": 4665,
+      "title": "涨涨涨，涨不停",
+      "type": "期货",
+      "author": "张斌",
+      "description": "核心观点：大盘在前期探底20日线企稳后，已进入最佳反弹时段，创业板指数上攻已遭遇较大程度抛压，关注沪指20日线支持，倘若失守届时还请做好止损准备。创业板指数上攻已遭遇较大程度抛压，关注沪指20日线支持，倘若失守届时还请做好止损准备。",
+      "supported": 2800,
+      "shared": 3200,
+      "vip": 1,
+      "shareURL": "http://solution.videojj.com/livingroom/54f7d6e8930572ee3dcb6da1"
+    },
+    {
+      "_id": "54f7d6e8930572ee3dcb6da2",
+      "type": 1,
+      "status": 2,
+      "onlineNumber": 7668,
+      "title": "黄金大讲堂",
+      "type": "期货",
+      "author": "张斌",
+      "description": "核心观点：大盘在前期探底20日线企稳后，已进入最佳反弹时段，创业板指数上攻已遭遇较大程度抛压，关注沪指20日线支持，倘若失守届时还请做好止损准备。创业板指数上攻已遭遇较大程度抛压，关注沪指20日线支持，倘若失守届时还请做好止损准备。",
+      "supported": 2800,
+      "shared": 3066,
+      "commented": 99998,
+      "vip": 2,
+      "shareURL": "http://solution.videojj.com/vod/54f7d6e8930572ee3dcb6da2"
+    }
+  ],
+  "types": [
+    {
+      "_id": "54f7d6e8930572ee3dcb6db0",
+      "title": "脱口秀"
+    },
+    {
+      "_id": "54f7d6e8930572ee3dcb6db1",
+      "title": "综艺"
+    },
+    {
+      "_id": "54f7d6e8930572ee3dcb6db2",
+      "title": "电影"
+    },
+    {
+      "_id": "54f7d6e8930572ee3dcb6db3",
+      "title": "萝莉"
+    },
+    {
+      "_id": "54f7d6e8930572ee3dcb6db4",
+      "title": "教育"
+    },
+    {
+      "_id": "54f7d6e8930572ee3dcb6db5",
+      "title": "秀场"
+    }
+  ],
+  "comments": [
+    {
+      "_id": "54f7d6e8930572ee3dcb6dc0",
+      "comment": "这个讲得比较到位啊",
+      "user": {
+        "_id": "54f7d6e8930572ee3dcb6dd0",
+        "userId": "54f7d6e8930572ee3dcb6de0",
+        "nickname": "采花大盗",
+        "vip": 4,
+        "avatar": "http://vpls.cdn.videojj.com/navbar/logo-white.png"
+      }
+    },
+    {
+      "_id": "54f7d6e8930572ee3dcb6dc1",
+      "comment": "受益匪浅，感觉对期货的认识又进了一步",
+      "user": {
+        "_id": "54f7d6e8930572ee3dcb6dd1",
+        "userId": "54f7d6e8930572ee3dcb6de1",
+        "nickname": "河南的网友",
+        "vip": 2,
+        "avatar": "http://vpls.cdn.videojj.com/navbar/logo-white.png"
+      }
+    }
+  ]
+}
