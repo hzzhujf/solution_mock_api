@@ -1,5 +1,8 @@
 # solution_mock_api
 
+## 域名
+> http://test-09.videojj.com/
+
 ## 获取节目列表
 > GET   /menu
 
